@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Admin
+Build-Jdk: 17.0.5
+Implementation-Title: SpringBootHoiNghi
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.dtdm
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/SpringBootHoiNghi
+Created-By: Maven Integration for Eclipse
+
